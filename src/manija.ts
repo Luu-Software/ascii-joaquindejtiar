@@ -2,6 +2,7 @@ import { preguntar } from './lib/consola.ts';
 
 function repetirLetra(letra: string, cantidad: number): string {
   // COMPLETAR o importar desde index.ts
+  
 }
 
 function filaTrianguloIsoceles(letra: string, fila: number, tamaño: number): string {
